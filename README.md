@@ -7,6 +7,7 @@ This app is a Sign in and Sign up app. This app is made in flutter technology
 <img src="https://user-images.githubusercontent.com/125340601/218944615-900dc187-5325-49c9-9877-ce7ef16b6467.png" weight="500" height="600"/>
 <img src="https://user-images.githubusercontent.com/125340601/218705794-1f080605-eec9-46f0-a668-74c0dd0ea13f.png" weight="500" height="600"/>
 </p>
+
 <img src="https://user-images.githubusercontent.com/125340601/230639315-cec24328-98b9-430c-a676-f2e49e45014c.mp4" weight="450" height="550"/>
 
 
