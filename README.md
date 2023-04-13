@@ -1,6 +1,6 @@
 # Sign in and Sign up App (Using Flutter)
 
-This app is a Sign in and Sign up app. This app is made in flutter technology.also using shared preference and also implement introduction screen
+This app is a Sign in and Sign up app. This app is made in flutter technology
 
 # Interface Image & Video
 <h3> Sign in and Sign up App Screen Images </h3>
